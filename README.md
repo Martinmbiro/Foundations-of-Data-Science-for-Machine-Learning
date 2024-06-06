@@ -17,8 +17,7 @@ Hello again 👋
 1. [x] Reading datasets
 2. [x] Exploring, visualizing, and manipulating data
 3. [x] Comparing numerical vs numerical variables, and numerical vs categorical variables
-4. [x] Model optimization through data pre-processing (encoding and scaling)
-5. [x] Normalizing numerical data
+4. [x] Normalizing numerical data
 
 
 ## Tools ⚒️
@@ -30,4 +29,4 @@ Hello again 👋
 
 ## Reference 📚
 + All thanks to the [`Microsoft Learn`](https://learn.microsoft.com/en-us/) module linked [`here`](https://learn.microsoft.com/api/achievements/share/en-us/MartinMuriithi-6560/7PKCCAPZ?sharingId=C156514E494249EC)  
-+ More in-depth coverage of [`pandas`](https://pandas.pydata.org/docs/index.html), [`matplotlib`](https://matplotlib.org/) and [`seaborn`](https://seaborn.pydata.org/index.html) can be found on my github reporistory: [`data pre-processing and visualization`](https://github.com/Martinmbiro/Data-Pre-processing-and-Visualization)
++ More in-depth coverage of [`pandas`](https://pandas.pydata.org/docs/index.html), [`matplotlib`](https://matplotlib.org/) and [`seaborn`](https://seaborn.pydata.org/index.html) can be found on my github reporistory linked here: [`data pre-processing and visualization`](https://github.com/Martinmbiro/Data-Pre-processing-and-Visualization)
